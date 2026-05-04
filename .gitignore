@@ -1,0 +1,12 @@
+# 忽略編譯產生的中間檔
+*.o
+
+# 忽略 Windows 的執行檔
+*.exe
+
+# 忽略你剛才自訂的執行檔名稱
+MyGame
+MyBaseballGame
+
+# 忽略 VS Code 的設定資料夾 (選配)
+.vscode/
